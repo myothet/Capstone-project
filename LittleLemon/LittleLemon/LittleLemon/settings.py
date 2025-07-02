@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Restaurant',  # Ensure this app is included
+    'rest_framework',  # Django REST framework for API support
 ]
 
 MIDDLEWARE = [
