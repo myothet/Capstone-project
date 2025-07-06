@@ -1,0 +1,5 @@
+To create custemoer account use this http://127.0.0.1:8000/restaurant/register/
+To create new menu use  this http://127.0.0.1:8000/restaurant/menu/
+To see menu Item use this http://127.0.0.1:8000/restaurant/menu/
+To creae new booking use this http://127.0.0.1:8000/restaurant/booking/
+To get booking table use this http://127.0.0.1:8000/restaurant/booking/tables
